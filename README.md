@@ -13,4 +13,5 @@ Power BI (Data Modeling, DAX, Visualization)
 
 SQL Server (Data Extraction, Aggregation Queries)
 
+
 Power Query (ETL – Cleaning & Merging Data)
