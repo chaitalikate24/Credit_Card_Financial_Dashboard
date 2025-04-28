@@ -9,9 +9,9 @@ To develope a comprehensive credit card weekly dashboard that provides real time
 
 Technologies Used :
 
-Power BI (Data Modeling, DAX, Visualization)
+            Power BI (Data Modeling, DAX, Visualization)
 
-SQL Server (Data Extraction, Aggregation Queries)
+            SQL Server (Data Extraction, Aggregation Queries)
 
 
-Power Query (ETL – Cleaning & Merging Data)
+            Power Query (ETL – Cleaning & Merging Data)
