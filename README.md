@@ -9,9 +9,22 @@ To develope a comprehensive credit card weekly dashboard that provides real time
 
 Technologies Used :
 
-            Power BI (Data Modeling, DAX, Visualization)
+            Power BI (Data Modeling, DAX, Visualization) - For interactive dashboard and visualization
 
-            SQL Server (Data Extraction, Aggregation Queries)
+            SQL Server (Data Extraction, Aggregation Queries) - For data preprocessing and querying
 
+            DAX (Data Analysis Expressions) - For calculated columns and measures
 
-            Power Query (ETL – Cleaning & Merging Data)
+            Excel/PDF - For mockup or presentation
+
+            Power Query (ETL – Cleaning & Merging Data) 
+
+📈 KPIs Tracked :
+
+            Total Revenue: ₹56.5M
+
+            Total Transactions: 667K+
+
+            Total Interest Earned: ₹8M
+
+            Customer Satisfaction Score: 3.19
